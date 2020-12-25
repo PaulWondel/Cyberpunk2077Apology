@@ -1,6 +1,6 @@
-The Cyberpunk 2077 Generator (forked version)
-=============================
-
+# The Cyberpunk 2077 Generator
+---
+## My personal modified version
 ---
 
 ### This version is forked from [foone/Cyberpunk2077Apology](https://github.com/foone/Cyberpunk2077Apology)
