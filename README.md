@@ -1,6 +1,11 @@
-The Cyberpunk 2077 Generator
+The Cyberpunk 2077 Generator (forked version)
 =============================
 
+---
+
+### This version is forked from foone/Cyberpunk2077Apology
+
+---
 
 This is a quick hacked up version of the Death Generator to make the
 Cyberpunk 2077 apology images.
